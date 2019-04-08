@@ -1,4 +1,4 @@
-# Angular Excel
+# Angular Excel to JSON
 
 This project is an Angular project that allows to upload Excel files (.xls or .xlsx) and convert them to JSON format.
 Feel free to clone this repository to check the code and run the application.
