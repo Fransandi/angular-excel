@@ -29,4 +29,4 @@ npm run start
 
 ## Author
 
-* **Fran Sandi** - *Repository owner* - [FranSandi](https://fransandi.com/)
+* **Fran Sandi** - *Repository owner* - [Personal Website](https://fransandi.com/)
